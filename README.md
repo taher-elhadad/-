@@ -1,2 +1,12 @@
-# -
-https://www.pornhub.com/view_video.php?viewkey=65e937a38b15e
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <title>فتح الكاميرا عبر اختيار ملف</title>
+</head>
+<body>
+    <input type="file" accept="image/*" capture="environment" id="cameraInput">
+    <script>
+        document.getElementById("cameraInput").click();
+    </script>
+</body>
+</html>
